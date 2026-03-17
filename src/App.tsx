@@ -692,8 +692,8 @@ export default function App() {
                 </p>
                 <div className="space-y-6">
                   {[
-                    { icon: Globe, title: 'Global Office', detail: '123 Tech Plaza, Innovation District' },
-                    { icon: MessageSquare, title: 'Email Us', detail: 'support@voolttrip.com' },
+                    { icon: Globe, title: 'Global Office', detail: 'United Kingdom' },
+                    { icon: MessageSquare, title: 'Email Us', detail: 'vooltgrouplimited@gmail.com' },
                     { icon: Clock, title: 'Support Hours', detail: 'Mon - Fri, 9am - 6pm GMT' },
                   ].map((item, i) => (
                     <div key={i} className="flex items-center gap-4">
