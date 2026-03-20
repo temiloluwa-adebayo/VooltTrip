@@ -1,5 +1,3 @@
-# Run and deploy your AI Studio app# VooltTrip
-
 > **An AI-powered visa assistance platform. A 24/7 intelligent chatbot handles all client questions — backed by a lawyer-secured escrow payment model that eliminates financial risk.**
 
 [![Type](https://img.shields.io/badge/Type-One--Page%20Website-blue?style=flat-square)]()
