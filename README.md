@@ -239,7 +239,7 @@ VooltTrip converts visitors through four layered mechanisms:
 ## Author
 
 **Temiloluwa Adebayo** — AI Software Engineer  
-[GitHub](https://github.com/temiloluwa-adebayo) · [LinkedIn]([https://linkedin.com/in/temiloluwa-adebayo](https://linkedin.com/in/temiloluwa-adebayo-4843ba377))
+[GitHub](https://github.com/temiloluwa-adebayo) · [LinkedIn](https://linkedin.com/in/temiloluwa-adebayo-4843ba377)
 
 This contains everything you need to run your app locally.
 
